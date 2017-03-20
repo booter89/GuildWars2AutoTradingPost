@@ -1,1 +1,15 @@
 C:\Users\kttruedson\Desktop\GuildWars2AutoTradingPost\AutoTradingPost\AutoTradingPost\bin\Debug\AutoTradingPost.exe.config
+C:\Users\Kyle\Desktop\GuildWars2AutoTradingPost\AutoTradingPost\AutoTradingPost\bin\Debug\AutoTradingPost.exe.config
+C:\Users\Kyle\Desktop\GuildWars2AutoTradingPost\AutoTradingPost\AutoTradingPost\bin\Debug\AutoTradingPost.exe
+C:\Users\Kyle\Desktop\GuildWars2AutoTradingPost\AutoTradingPost\AutoTradingPost\bin\Debug\AutoTradingPost.pdb
+C:\Users\Kyle\Desktop\GuildWars2AutoTradingPost\AutoTradingPost\AutoTradingPost\obj\Debug\AutoTradingPost.csprojResolveAssemblyReference.cache
+C:\Users\Kyle\Desktop\GuildWars2AutoTradingPost\AutoTradingPost\AutoTradingPost\obj\Debug\MainWindow.g.cs
+C:\Users\Kyle\Desktop\GuildWars2AutoTradingPost\AutoTradingPost\AutoTradingPost\obj\Debug\App.g.cs
+C:\Users\Kyle\Desktop\GuildWars2AutoTradingPost\AutoTradingPost\AutoTradingPost\obj\Debug\AutoTradingPost_MarkupCompile.cache
+C:\Users\Kyle\Desktop\GuildWars2AutoTradingPost\AutoTradingPost\AutoTradingPost\obj\Debug\AutoTradingPost_MarkupCompile.lref
+C:\Users\Kyle\Desktop\GuildWars2AutoTradingPost\AutoTradingPost\AutoTradingPost\obj\Debug\MainWindow.baml
+C:\Users\Kyle\Desktop\GuildWars2AutoTradingPost\AutoTradingPost\AutoTradingPost\obj\Debug\AutoTradingPost.g.resources
+C:\Users\Kyle\Desktop\GuildWars2AutoTradingPost\AutoTradingPost\AutoTradingPost\obj\Debug\AutoTradingPost.Properties.Resources.resources
+C:\Users\Kyle\Desktop\GuildWars2AutoTradingPost\AutoTradingPost\AutoTradingPost\obj\Debug\AutoTradingPost.csproj.GenerateResource.Cache
+C:\Users\Kyle\Desktop\GuildWars2AutoTradingPost\AutoTradingPost\AutoTradingPost\obj\Debug\AutoTradingPost.exe
+C:\Users\Kyle\Desktop\GuildWars2AutoTradingPost\AutoTradingPost\AutoTradingPost\obj\Debug\AutoTradingPost.pdb
